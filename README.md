@@ -1,4 +1,6 @@
-<p><img align="center" src="https://i.ibb.co/7pr9Pzb/cosmic-full-black.png" alt="Cosmic ITechnologies" /></p>
+<p>
+  <img align="center" src="https://i.ibb.co/7pr9Pzb/cosmic-full-black.png" alt="Cosmic ITechnologies" />
+</p>
 <h1 align="center">Hi 👋, I'm Diego Parra AKA Grimcall.</h1>
 <h3 align="center">I'm a software engineer based in Venezuela 🇻🇪</h3>
 

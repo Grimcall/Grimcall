@@ -25,6 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,qt,gtk)](https://skillicons.dev)
 
 ✔️ Server: Jboss, Apache Tomcat
+
 ✔️ Database: MongoDB, MySQL,  PostgreSQL, SQLite
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)

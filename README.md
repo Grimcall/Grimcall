@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cosmic-itechnology-qwpe.onrender.com/#project](https://cosmic-itechnology-qwpe.onrender.com/#project)
 
-- 💬 Ask me about **Python, Javascript, React, Django**
+- 💬 Ask me about **Python, PostgreSQL, Qt, Flask, Django**
 
 - 📫 How to reach me **https://cosmic-itechnology-qwpe.onrender.com/#connect**
 

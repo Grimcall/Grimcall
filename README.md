@@ -26,10 +26,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
 
-✔️ **CMS: WordPress**
-
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-
 ✔️ **Windows: Python, PyQt, TkInter**
 
 [![My Skills](https://skillicons.dev/icons?i=py,qt,gtk)](https://skillicons.dev)

@@ -14,9 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,js)](https://skillicons.dev)
 
-✔️ **Web: React JS, Laravel, Django, Flask, PHP, HTML+CSS**
+✔️ **Web: React JS, Django, Flask, PHP, HTML+CSS**
 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,django,flask,php,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,flask,php,html,css,js)](https://skillicons.dev)
 
 ✔️ **Android: Java, Kotlin**
 

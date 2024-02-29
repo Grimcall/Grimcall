@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, PostgreSQL, Qt, Flask, Django**
 
-- 📫 How to reach me **https://cosmic-itechnology-qwpe.onrender.com/#connect**
+- 📫 How to reach me **https://dparradev.onrender.com/**
 
 ✔️ **Programming Languages: Python, Java, Kotlin, C, C++, JavaScript**
 

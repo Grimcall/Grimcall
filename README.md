@@ -1,4 +1,4 @@
-<p>
+<p style="text-align:center;">
   <img align="center" src="https://i.ibb.co/7pr9Pzb/cosmic-full-black.png" alt="Cosmic ITechnologies" />
 </p>
 <h1 align="center">Hi 👋, I'm Diego Parra, AKA Grimcall.</h1>

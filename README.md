@@ -22,10 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 
-✔️ **Hybrid: Flutter, React Native**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
-
 ✔️ **Windows: Python, PyQt, TkInter**
 
 [![My Skills](https://skillicons.dev/icons?i=py,qt,gtk)](https://skillicons.dev)

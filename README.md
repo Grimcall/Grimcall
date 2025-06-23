@@ -2,15 +2,15 @@
   <img align="center" src="https://i.ibb.co/7pr9Pzb/cosmic-full-black.png" alt="Cosmic ITechnologies" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://dparradev.onrender.com/](https://dparradev.onrender.com/)
+- 👨‍💻 All of my projects are available at [COMING SOON]
 
-- 💬 Ask me about **Python, PostgreSQL, Qt, Flask, Django**
+- 💬 Ask me about **Python, Django, PHP, Laravel, React**
 
-- 📫 How to reach me **https://dparradev.onrender.com/**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/diego-parra-838739212/)**
 
-✔️ **Programming Languages: Python, Java, Kotlin, C, C++, JavaScript**
+✔️ **Programming Languages: Python, PHP, Java, C, C++, JavaScript**
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,c,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,php,kotlin,c,cpp,js)](https://skillicons.dev)
 
 ✔️ **Web: React JS, Django, Flask, PHP, HTML+CSS**
 

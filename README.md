@@ -14,7 +14,7 @@
 
 ✔️ **Web: React JS, Django, Flask, Laravel, Vue, Next.js, Spring**
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,flask,laravel,html,css,vue,nextjs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,flask,laravel,vue,nextjs,spring)](https://skillicons.dev)
 
 ✔️ **Android: Java, Kotlin**
 
